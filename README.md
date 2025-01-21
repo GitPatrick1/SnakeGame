@@ -1,5 +1,5 @@
 # SnakeGame
 
-Snake Game in python
+Snake Game in python with pygame
 
 'pip install pygame'
